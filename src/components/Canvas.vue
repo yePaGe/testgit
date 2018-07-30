@@ -2,7 +2,7 @@
   <div class='box'>
     <canvas id='pic' width='200' height="200"></canvas>
     <img width='20%' height="20%" class='imgCon' src='../assets/wxUser.png'/>
-    new branch
+    new branch test test
   </div>
 </template>
 
